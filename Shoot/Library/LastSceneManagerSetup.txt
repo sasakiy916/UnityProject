@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Unity4_20220818.unity
+  isLoaded: 1
+  isActive: 1
